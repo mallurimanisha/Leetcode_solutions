@@ -23,9 +23,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
