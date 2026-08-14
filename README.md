@@ -20,6 +20,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0619-biggest-single-number) |
 ## Hash Table
 |  |
 | ------- |
