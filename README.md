@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -54,4 +55,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
