@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -32,6 +33,7 @@
 | [0141-linked-list-cycle](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -60,6 +63,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
