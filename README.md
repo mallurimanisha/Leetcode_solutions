@@ -37,6 +37,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0202-happy-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
