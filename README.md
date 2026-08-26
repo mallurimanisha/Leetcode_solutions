@@ -28,6 +28,7 @@
 | [0619-biggest-single-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1148-article-views-i) |
+| [1527-patients-with-a-condition](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
