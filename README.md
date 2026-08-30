@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
