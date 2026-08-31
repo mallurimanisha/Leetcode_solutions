@@ -77,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
