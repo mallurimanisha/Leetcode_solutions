@@ -8,6 +8,7 @@
 | [0263-ugly-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
