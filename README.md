@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
