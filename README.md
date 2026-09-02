@@ -81,6 +81,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
