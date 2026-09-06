@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
