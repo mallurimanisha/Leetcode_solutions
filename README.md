@@ -31,6 +31,7 @@
 | [0619-biggest-single-number](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1148-article-views-i) |
+| [1517-find-users-with-valid-e-mails](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/1683-invalid-tweets) |
