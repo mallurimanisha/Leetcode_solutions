@@ -112,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [2942-find-words-containing-character](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 ## Matrix
 |  |
@@ -121,4 +122,12 @@
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mallurimanisha/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
